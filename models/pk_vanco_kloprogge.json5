@@ -41,7 +41,6 @@
   "variables": [
     "CLi",
     "Qi",
-    "PMA",
     "Vi",
     "V2i",
     "CLtot",
@@ -83,5 +82,5 @@
       "url": "https://www.ncbi.nlm.nih.gov/pubmed/30833429"
     }
   ],
-  "version": "0.2.6"
+  "version": "0.2.7"
 }
